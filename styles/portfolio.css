@@ -50,6 +50,9 @@ nav a{
 }
 .header{
     background-color: #fff8f3;
+    background: url("../images/developer.png");
+    background-repeat: no-repeat;
+    margin-top: 50px 50px;
 
 }
 .banner{
